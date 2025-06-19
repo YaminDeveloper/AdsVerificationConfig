@@ -14,14 +14,12 @@
     "durationHours": 5
   },
 
-  // --- এখানে মূল পরিবর্তনটি করা হয়েছে ---
   "linkSystem": {
     "multiLink": false,
     "link1": "https://go.arlinks.in/ABCXYZ?subid={{TOKEN}}", // উদাহরণ
     "link2": "https://another.link/path?id={{TOKEN}}" 
   },
 
-  // --- অন্য সিস্টেমগুলো নিষ্ক্রিয় ---
   "adsterraSystem": {
     "enabled": false,
     "adsterraVerificationUrl": ""
