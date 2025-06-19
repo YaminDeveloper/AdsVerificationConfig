@@ -8,22 +8,23 @@
     "contact": "https://t.me/GG_YAMIN",
     "tutorial": "https://youtube.com/@yaminahmed?si=RyfMAqKiFz7I8gg3"
   },
-
+  
   "verificationSystem": {
     "useHours": true,
-    "durationHours": 5,
-    "durationMinutes": 5
+    "durationHours": 5
   },
 
+  // --- এখানে মূল পরিবর্তনটি করা হয়েছে ---
   "linkSystem": {
     "multiLink": false,
-    "link1": "https://go.arlinks.in/xL8wBRro",
-    "link2": "https://your-premade-shortlink2.com"
+    "link1": "https://go.arlinks.in/ABCXYZ?subid={{TOKEN}}", // উদাহরণ
+    "link2": "https://another.link/path?id={{TOKEN}}" 
   },
 
+  // --- অন্য সিস্টেমগুলো নিষ্ক্রিয় ---
   "adsterraSystem": {
     "enabled": false,
-    "adsterraVerificationUrl": "https://adsverification.netlify.app"
+    "adsterraVerificationUrl": ""
   },
 
   "expireSystem": {
