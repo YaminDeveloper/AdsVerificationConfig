@@ -1,7 +1,7 @@
 {
   "dialogTitle": "YAMMY MODS",
   "firebaseDbUrl": "https://adsverification-9fbd5-default-rtdb.asia-southeast1.firebasedatabase.app/",
-  "tokenRequestUrl": "https://cheerful-elf-b9dd99.netlify.app/.netlify/functions/request-token",
+  "tokenRequestUrl": "https://adsverification.netlify.app/.netlify/functions/request-token",
 
   "links": {
     "joinUs": "https://t.me/YammyMods",
@@ -26,7 +26,7 @@
   
   "adsterraSystem": {
     "enabled": false,
-    "verificationPageUrl": "https://your-netlify-site.netlify.app/adsterra-verify.html"
+    "verificationPageUrl": "https://adsverification.netlify.app/adsterra-verify.html"
   },
 
   "expireSystem": {
