@@ -1,21 +1,33 @@
 {
   "dialogTitle": "YAMMY MODS",
-  "apiKey": "8ec31d15456d2f2d40d6652178bd89557c4f685c",
-  "apiDomain": "arlinks.in",
   "firebaseDbUrl": "https://raseldev-4fff5-default-rtdb.firebaseio.com/",
   "tokenRequestUrl": "https://cheerful-elf-b9dd99.netlify.app/.netlify/functions/request-token",
-
-  "verification": {
-    "longUrl": "https://cheerful-elf-b9dd99.netlify.app/verify",
-    "useHours": true,
-    "durationHours": 5,
-    "durationMinutes": 5
-  },
 
   "links": {
     "joinUs": "https://t.me/YammyMods",
     "contact": "https://t.me/GG_YAMIN",
     "tutorial": "https://youtube.com/@yaminahmed?si=RyfMAqKiFz7I8gg3"
+  },
+
+  // নতুন অ্যাড-ভিত্তিক ভেরিফিকেশন সিস্টেম
+  "verificationSystem": {
+    "useHours": true,
+    "durationHours": 5,
+    "durationMinutes": 5
+  },
+
+  // --- নতুন লিংক সিস্টেম ---
+  "linkSystem": {
+    "multiLink": false, // এটি ON/OFF সুইচ। true হলে দুটি লিংক, false হলে একটি।
+    "link1": "https://your-premade-shortlink1.com", // আপনার প্রথম শর্টলিংক
+    "link2": "https://your-premade-shortlink2.com"  // দ্বিতীয় লিংক (multiLink: true হলে ব্যবহৃত হবে)
+  },
+
+  // --- নতুন Adsterra সিস্টেম ---
+  "adsterraSystem": {
+    "enabled": false, // এটি true করলে উপরের linkSystem কাজ করবে না।
+    // এখানে আপনার Adsterra ভেরিফিকেশন পেজের লিংক থাকবে (বিস্তারিত ধাপ ২ এ)
+    "verificationPageUrl": "https://your-netlify-site.netlify.app/adsterra-verify.html"
   },
 
   "expireSystem": {
