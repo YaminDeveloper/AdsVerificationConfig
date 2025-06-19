@@ -1,6 +1,6 @@
 {
   "dialogTitle": "YAMMY MODS",
-  "firebaseDbUrl": "https://raseldev-4fff5-default-rtdb.firebaseio.com/",
+  "firebaseDbUrl": "https://adsverification-9fbd5-default-rtdb.asia-southeast1.firebasedatabase.app/",
   "tokenRequestUrl": "https://cheerful-elf-b9dd99.netlify.app/.netlify/functions/request-token",
 
   "links": {
