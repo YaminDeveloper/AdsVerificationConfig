@@ -16,14 +16,14 @@
   },
 
   "linkSystem": {
-    "enabled": false,
+    "enabled": true,
     "multiLink": false,
     "link1": "https://go.arlinks.in/QsBOpO?token={{TOKEN}}",
     "link2": "https://another.link/path?id={{TOKEN}}" 
   },
 
   "adsterraSystem": {
-    "enabled": true,
+    "enabled": false,
     "adsterraVerificationUrl": "https://adsverification.netlify.app"
   },
 
