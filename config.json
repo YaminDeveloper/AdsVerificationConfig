@@ -10,15 +10,15 @@
   },
   
   "verificationSystem": {
-    "longUrl": "https://adsverification.netlify.app/verify",
     "useHours": true,
     "durationHours": 5,
     "durationMinutes": 5
   },
 
   "linkSystem": {
+    "enabled": false,
     "multiLink": false,
-    "link1": "https://go.arlinks.in/ABCXYZ?subid={{TOKEN}}", // উদাহরণ
+    "link1": "https://go.arlinks.in/YourShortID?token={{TOKEN}}",
     "link2": "https://another.link/path?id={{TOKEN}}" 
   },
 
