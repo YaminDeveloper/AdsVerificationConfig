@@ -2,7 +2,7 @@
   "dialogTitle": "YAMMY MODS",
   "apiKey": "8ec31d15456d2f2d40d6652178bd89557c4f685c",
   "apiDomain": "arlinks.in",
-  "firebaseDbUrl": "https://raseldev-4fff5-default-rtdb.firebaseio.com/",
+  "firebaseDbUrl": "https://adsverification-9fbd5-default-rtdb.asia-southeast1.firebasedatabase.app/",
   "tokenRequestUrl": "https://adsverification.netlify.app/.netlify/functions/request-token",
 
   "verification": {
