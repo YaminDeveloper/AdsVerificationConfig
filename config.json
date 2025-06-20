@@ -18,7 +18,7 @@
 
   "adsterraSystem": {
     "enabled": true,
-    "adsterraVerificationUrl": "https://adsverification.netlify.app/"
+    "adsterraVerificationUrl": "https://adsverification.netlify.app"
   },
 
   "expireSystem": {
