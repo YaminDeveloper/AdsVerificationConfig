@@ -15,10 +15,15 @@
     "durationMinutes": 5
   },
 
-  "linkSystem": {
+  "loaderSystem": {
     "enabled": true,
+    "loaderUrl": "https://adsverification.netlify.app"
+  },
+  
+  "linkSystem": {
+    "enabled": false,
     "multiLink": false,
-    "link1": "https://go.arlinks.in/QsBOpO?token={{TOKEN}}",
+    "link1": "",
     "link2": "" 
   },
 
