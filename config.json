@@ -3,10 +3,10 @@
   "apiKey": "8ec31d15456d2f2d40d6652178bd89557c4f685c",
   "apiDomain": "arlinks.in",
   "firebaseDbUrl": "https://raseldev-4fff5-default-rtdb.firebaseio.com/",
-  "tokenRequestUrl": "https://cheerful-elf-b9dd99.netlify.app/.netlify/functions/request-token",
+  "tokenRequestUrl": "https://adsverification.netlify.app/.netlify/functions/request-token",
 
   "verification": {
-    "longUrl": "https://cheerful-elf-b9dd99.netlify.app/verify",
+    "longUrl": "https://adsverification.netlify.app/verify",
     "useHours": true,
     "durationHours": 5,
     "durationMinutes": 5
