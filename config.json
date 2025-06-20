@@ -18,7 +18,7 @@
   "linkSystem": {
     "enabled": true,
     "multiLink": false,
-    "link1": "https://go.arlinks.in/QsBOpO?token={{TOKEN}}",
+    "link1": "https://go.arlinks.in/7b0R?token={{TOKEN}}",
     "link2": "https://another.link/path?id={{TOKEN}}" 
   },
 
