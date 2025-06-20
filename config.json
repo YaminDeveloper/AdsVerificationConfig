@@ -16,7 +16,7 @@
   },
 
   "loaderSystem": {
-    "enabled": true,
+    "enabled": false,
     "loaderUrl": "https://adsverification.netlify.app"
   },
   
@@ -33,6 +33,6 @@
   },
 
   "expireSystem": {
-    "enabled": false
+    "enabled": true
   }
 }
