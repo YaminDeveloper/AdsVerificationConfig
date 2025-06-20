@@ -15,21 +15,16 @@
     "durationMinutes": 5
   },
 
-  "loaderSystem": {
-    "enabled": false,
-    "loaderUrl": "https://adsverification.netlify.app"
-  },
-  
   "linkSystem": {
-    "enabled": false,
+    "enabled": true,
     "multiLink": false,
-    "link1": "",
+    "link1": "https://go.arlinks.in/QsBOpO?token={{TOKEN}}",
     "link2": "" 
   },
 
   "adsterraSystem": {
-    "enabled": true,
-    "adsterraVerificationUrl": ""
+    "enabled": false,
+    "adsterraVerificationUrl": "https://www.google.com/url?sa=E&q=https%3A%2F%2Fadsverification.netlify.app"
   },
 
   "expireSystem": {
