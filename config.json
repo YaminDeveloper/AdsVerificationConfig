@@ -16,15 +16,15 @@
   },
 
   "linkSystem": {
-  "enabled": true,
-  "multiLink": false,
-  "link1": "https://go.arlinks.in/QsBOpO/",
-  "link2": "" 
-},
+    "enabled": true,
+    "multiLink": false,
+    "link1": "https://go.arlinks.in/QsBOpO?token={{TOKEN}}",
+    "link2": "" 
+  },
 
   "adsterraSystem": {
     "enabled": false,
-    "adsterraVerificationUrl": "https://adsverification.netlify.app"
+    "adsterraVerificationUrl": ""
   },
 
   "expireSystem": {
