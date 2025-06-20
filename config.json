@@ -10,14 +10,14 @@
   },
 
   "links": {
-    "myAdPage": "https://www.yammymods.com/p/verify-page.html",
+    "myAdPage": "https://www.designlabofficial.site/p/verify-page.html",
     "joinUs": "https://t.me/YammyMods",
     "contact": "https://t.me/GG_YAMIN",
     "tutorial": "https://your-tutorial-video-link.com"
   },
 
   "adsterraSystem": {
-    "enabled": true,
+    "enabled": false,
     "adsterraVerificationUrl": "https://adsverification.netlify.app"
   },
 
