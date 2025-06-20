@@ -1,24 +1,24 @@
 {
-  "dialogTitle": "YAMMY MODS"
+  "dialogTitle": "YAMMY MODS",
   "firebaseDbUrl": "https://adsverification-9fbd5-default-rtdb.asia-southeast1.firebasedatabase.app/",
   "tokenRequestUrl": "https://adsverification.netlify.app/.netlify/functions/request-token",
 
   "verification": {
     "useHours": true,
     "durationHours": 5,
-    "durationMinutes": 5
+    "durationMinutes": 300
   },
 
   "links": {
+    "myAdPage": "https://www.yammymods.com/p/verify-page.html",
     "joinUs": "https://t.me/YammyMods",
     "contact": "https://t.me/GG_YAMIN",
-    "tutorial": "https://youtube.com/@yaminahmed?si=RyfMAqKiFz7I8gg3"
+    "tutorial": "https://your-tutorial-video-link.com"
   },
 
-
   "adsterraSystem": {
-    "enabled": true,
-    "adsterraVerificationUrl": "https://adsverification.netlify.app"
+    "enabled": false,
+    "adsterraVerificationUrl": "https://your_adsterra_direct_link.com"
   },
 
   "expireSystem": {
