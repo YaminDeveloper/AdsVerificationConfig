@@ -1,12 +1,9 @@
 {
-  "dialogTitle": "YAMMY MODS",
-  "apiKey": "c13a6be54a41dc819547c7f6ce91d96242de3428",
-  "apiDomain": "arlinks.in",
+  "dialogTitle": "YAMMY MODS"
   "firebaseDbUrl": "https://adsverification-9fbd5-default-rtdb.asia-southeast1.firebasedatabase.app/",
   "tokenRequestUrl": "https://adsverification.netlify.app/.netlify/functions/request-token",
 
   "verification": {
-    "longUrl": "https://adsverification.netlify.app/verify",
     "useHours": true,
     "durationHours": 5,
     "durationMinutes": 5
