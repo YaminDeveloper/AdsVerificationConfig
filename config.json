@@ -17,11 +17,11 @@
   },
 
   "adsterraSystem": {
-    "enabled": false,
+    "enabled": true,
     "adsterraVerificationUrl": "https://adsverification.netlify.app/verify-adsterra"
   },
 
   "expireSystem": {
-    "enabled": true
+    "enabled": false
   }
 }
