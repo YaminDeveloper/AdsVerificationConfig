@@ -10,10 +10,15 @@
   },
 
   "links": {
-    "verificationUrl": "https://adsverification.netlify.app/verify-adsterra",
+    "myAdPage": "https://www.yammymods.com/p/verify-page.html",
     "joinUs": "https://t.me/YammyMods",
     "contact": "https://t.me/GG_YAMIN",
     "tutorial": "https://your-tutorial-video-link.com"
+  },
+
+  "adsterraSystem": {
+    "enabled": true,
+    "adsterraVerificationUrl": "https://adsverification.netlify.app/adsterra"
   },
 
   "expireSystem": {
