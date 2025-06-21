@@ -5,7 +5,7 @@
 
   "verification": {
     "useHours": true,
-    "durationHours": 5,
+    "durationHours": 6,
     "durationMinutes": 300
   },
 
