@@ -1,5 +1,5 @@
 {
-  "dialogTitle": "YAMMY MODS",
+  "dialogTitle": "DesignLab Official",
   "firebaseDbUrl": "https://adsverification-9fbd5-default-rtdb.asia-southeast1.firebasedatabase.app/",
   "tokenRequestUrl": "https://adsverification.netlify.app/.netlify/functions/request-token",
 
